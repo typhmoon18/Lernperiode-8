@@ -14,3 +14,11 @@ Ich habe heute das Verbinden der Datenbank in 295 probiert, dies hat leider nich
 
 ## 24.01
 Ich werde mich wieder dem wiederholen vom Mittwoch/donnerstag widmen
+Reflexion:
+Heute habe ich mich den Aufgaben des Moduls 114 gewidmet. Dabei habe ich Moodletests gelöst und mit anderen zusammen die Aufträge für den 27. Januar bearbeitet. Besonders intensiv habe ich mich mit der Fehlererkennung in einem Zahlensystem (LA 1704) beschäftigt und auch mit Zeichenkodierung.
+Ich habe neben meinem Auftrag auch anderen bei ihren geholfen, da das ganze ja eine Gruppenarbeit ist. Sie hatten zb die Aufträge 1705.1707.1711.1717, der schwierigste war hier bei weitem 1707, welcher die meiste Zeit vom Tag brauchte.
+
+Auf Probleme bin ich dabei nicht gestossen, obwohl ich meine Arbeitszeit besser hätte nutzen können. Es wäre hilfreich gewesen, die Aufgaben noch effizienter zu erledigen. Aber insgesamt war es ein produktiver Tag.
+
+## 31.1
+Ich werde wieterfahren mit dem Modul 114 HZ2
